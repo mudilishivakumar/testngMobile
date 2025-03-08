@@ -1,0 +1,3 @@
+test/cases/LoginAppValidation.class
+test/cases/ScreenRecordingUtil.class
+object/repository/LoginPage.class
